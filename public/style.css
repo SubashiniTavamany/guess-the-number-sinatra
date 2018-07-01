@@ -1,0 +1,30 @@
+body {
+  background-image: url('img/light-bgl.png');
+  text-align: center;
+}
+
+h1{
+  font-size: 5em;
+  font-family: 'Monotone', cursive;
+  
+  p {
+    margin: 2em;
+    line-height: 1.4;
+  }
+}
+
+.start {
+  display: block;
+  background-color: darkolivegreen;
+  color: black;
+  width: 5em;
+  height: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2.5em;
+  line-height: 5em;
+  font-size: 1.3em;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px black;
+  
+}
